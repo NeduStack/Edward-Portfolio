@@ -33,9 +33,7 @@ function Hero() {
         </div>
         <div className={styles.Info}>
             <h1>
-                Ugwoke
-                <br />
-                Edward
+                Ugwoke Edward Chinedu
             </h1>
             <h2> Software Engineer </h2>
             <span>
@@ -43,11 +41,11 @@ function Hero() {
                     <img src={twitterIcon} alt="Twitter icon" />
                 </a>
             
-                <a href="https://github.com" target="_blank">
+                <a href="https://github.com/NeduStack" target="_blank">
                     <img src={githubIcon} alt="Github icon" />
                 </a>
         
-                <a href="https://linkedin.com" target="_blank">
+                <a href="https://www.linkedin.com/in/edward-ugwoke-32526b145?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" target="_blank">
                     <img src={linkedinIcon} alt="Linkedin icon" />
                 </a>
             </span>
