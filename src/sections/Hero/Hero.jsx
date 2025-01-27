@@ -55,6 +55,9 @@ function Hero() {
                 With zeal for developing modern and futuristic React and Django Web app and python scripts to accomplish complex tasks for individual and commercial businesses.
             </p>
 
+             <br />
+             <br />
+
             <a href={CV} download>
                 <button className="hover">
                     Resume
